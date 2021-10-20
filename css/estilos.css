@@ -64,7 +64,7 @@ body{
 
 .burbuja{
     border-radius: 50%;
-    background: linear-gradient(to right, #05c78d, #f80606);
+    background: linear-gradient(to right, #d02a2a    ,#6c0503  );
     opacity: .3;
 
     position: absolute;
@@ -264,7 +264,6 @@ body{
 	display: inline-block;
 	min-width: 120px;
 	border-radius: 5px;
-    background: linear-gradient(to right, #005C98, #505BDA);
 	color: #fff;
 	font-size: 30px;
 	margin: 0 20px;
