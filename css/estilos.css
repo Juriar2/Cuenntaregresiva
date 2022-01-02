@@ -7,7 +7,7 @@
 body{
 background:url(https://fondosmil.com/fondo/25114.jpg) ;
 
-    font-family: 'Roboto', 'Sans serif';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .contenedor{
@@ -19,7 +19,7 @@ background:url(https://fondosmil.com/fondo/25114.jpg) ;
 .bg_animate{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(to right, #005C98, #505BDA);
+    background: linear-gradient(to right, #07d1a5, #505BDA);
     position: relative;
     overflow: hidden;
 }
@@ -190,7 +190,7 @@ background:url(https://fondosmil.com/fondo/25114.jpg) ;
 
 .portada {
 	width: 100%;
-	background: linear-gradient(to right, #005C98, #505BDA);
+	background: linear-gradient(to right, #07d1a5, #505BDA);
 
 	min-height: 85vh;
 	position: fixed;
